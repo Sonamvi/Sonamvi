@@ -3,7 +3,7 @@
 
 ### Welcome to my Github repo 
 
-![](https://img.shields.io/badge/Projects-0%20-green) ![](https://img.shields.io/badge/Repositories-0%20-yellow)
+![](https://img.shields.io/badge/Projects-0%20-green) ![](https://img.shields.io/badge/Repositories-2%20-yellow)
 
 ### Languages
 
